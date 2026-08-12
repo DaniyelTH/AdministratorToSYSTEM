@@ -1,3 +1,5 @@
+// Compile with cl.exe SystemLink.c  for the x64 architecture.
+
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
 #include <userenv.h>
