@@ -1,4 +1,6 @@
-// Compile with cl.exe SystemLink.c  for the x64 architecture.
+// For the x64 architecture.
+// Compile with> cl.exe SystemLink.c Advapi32.lib
+
 
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
